@@ -1,2 +1,2 @@
 # Computational Cryptography
-Show the work while I learned the Computational Cryptography 
+Show the work for learning the Computational Cryptography
